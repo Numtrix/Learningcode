@@ -1,4 +1,26 @@
-# Learningcode
+
+# Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#  Summary Learningcode
 This website page is to help deepen the understanding of coding, development and computer science 
 
 
@@ -34,3 +56,15 @@ Control Structures: Statements like IF and FOR that control the flow of executio
 Functions: Reusable blocks of code that perform specific tasks. 
 
 While BASIC may not be as widely used today for complex projects, it remains a valuable tool for beginners to learn the basics of coding and develop a strong foundation for more advanced programming. 
+
+
+# What's in this repo?
+
+
+# University Helper 
+CODEX
+
+Team
+Michael Brewer
+
+
